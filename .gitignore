@@ -156,6 +156,7 @@ dmypy.json
 cython_debug/
 azure_embeddings
 high_rated_categories_embeddings
+.DS_Store
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore

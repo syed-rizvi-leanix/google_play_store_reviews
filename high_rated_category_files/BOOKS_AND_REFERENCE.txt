@@ -3,8 +3,10 @@ Category: BOOKS_AND_REFERENCE
 App Name: Free Panda Radio Music
 Rating: 4.5
 Reviews: I Ball Pan , man!; It's; I trying I let know I think; Ok,; I love APP. DOWNLOAD NOW
+Genres: Books & Reference
 
 App Name: AlReader -any text book reader
 Rating: 4.6
 Reviews: This best ebook reading app. No ads, Gesture support, TTS, Bookmark. And many more. It may issues, like TTS split text incorrectly ( time, like '12:45 am' splitted '12:' '45 am', decimal number like '12.45 cm' splitted '12.' '45 cm') But overall I'm happy much.; Better, cool reader, moon+reader, kobo. Doesn't contain ads! Extremely configurable, yet easy use. In-text adjustment font size brightness. The complaint is, support google translate, though supports various dictionaries.; Library sorting stellar. Being able see books series numbered order rocks. The big name book readers fail miserably. It works great calibre library output handles preferred naming conventions like other. Highly configurable areas puts paid options shame.; Best reader Android I found date. Have yet find epub can't handle, handle well. Liked much, I donated suggested $0.99 separate "donation" app.; I live illegally downloaded books, regardless file type (except PDFs chance add-on?) work library allows read books may difficulty finding otherwise quite vast collection
+Genres: Books & Reference
 

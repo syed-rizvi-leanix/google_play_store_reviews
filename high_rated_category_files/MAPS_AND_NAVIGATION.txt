@@ -3,8 +3,10 @@ Category: MAPS_AND_NAVIGATION
 App Name: GPS Speedometer and Odometer
 Rating: 4.8
 Reviews: Its great I fun bullet trains using see fast I going!; Works great; It's good
+Genres: Maps & Navigation
 
 App Name: GPS Speedometer, Distance Meter
 Rating: 4.6
 Reviews: Didn't work. And Dev seem think I'm idiot turn GPS. Strangely enough next I tried worked fine.; Worst please; Good smart work...keep allow ads; Really good speedo meters; Plz add options like Average speed, mileage etc.
+Genres: Maps & Navigation
 
