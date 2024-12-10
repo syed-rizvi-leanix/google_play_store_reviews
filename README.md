@@ -19,7 +19,7 @@ This project analyzes the Google Play Store Apps dataset from Kaggle to derive i
 - Recommend app replacements for poorly rated apps.
 
 ## Results
-* The result for the recommendation are stored in the `recommendations_results.txt` file.
+* The result for the recommendation are stored in the `recommendation_results.txt` file.
 
 ## Installation and Setup
 

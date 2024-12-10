@@ -5,6 +5,11 @@ Rating: 4.5
 Reviews: This awesome. I managed create attractive resume myself. Some work needs put templates though. Especially hexagon template. Its also unconvincing omits information entered using templates. But overall, nice application.; It help create resume easily I can't erase word "with" educational background. And suddenly stopped. Please fix soonest.; When export pdf show information inputted, like bobbies, reference telephone numbers, declaration also educational background, can't remove word "with"; This great App, I wish many people start downloading useful Apps like either busy stupid staf social media.; I believe first made easy new cv know.
 Genres: Business
 
+App Name: Google Primer
+Rating: 4.4
+Reviews: Great; Good
+Genres: Business
+
 App Name: Call Blocker
 Rating: 4.6
 Reviews: So far able block annoying machines, recordings telemarketers I blocked. Finally I get 300 dummy calls day anymore. Thank you!; Finally call blocker works. Also option block phone numbers starting certain number range (without wildcards) great. Other programs work causing issues internet connection.; New pop ad free version pops several times time open app. It repeats: SEE WHO IS CALLING Dont fear, identify spam calls. Annoying enough delete ...
@@ -15,9 +20,29 @@ Rating: 4.5
 Reviews: Simple use, ridiculous ads way... When need quick PDF u take picture... oh AND free... Don't get better. Highly recommend; Simple intuitive use. I like feature darker text export document either pdf jpg format. I purchased PRO version cloud storage backup support continuous development tool well. Highly recommended best scanner I've used ever.; Great business convenience! I private process server need scanner road frequently, works perfectly! Much better quality portable want scanners; Rather buy new scanner office, I used app. Fast convenient, I particularly like immediate obvious option share email, message, etc.; Once I got hang using it, great! As long person email fax machine needed! Take picture brighten dark report resize frame document. Easy thank Fast Scanner making job easy even without fax machine!
 Genres: Business
 
+App Name: Google Ads
+Rating: 4.3
+Reviews: You terrible job recreating something works. Now slow load. Does half options used creates work; It helpful manage ads.; I love google; Nice yousfull; Awesome
+Genres: Business
+
+App Name: FreshBooks Classic
+Rating: 4.1
+Reviews: I would really like see PDF support receipts creating expense. I store receipts PDFs essentially makes large part useless (and many others well).; The Android version keeps time project task thousandth decimal place. The iPhone round nearest minute. This causes get times 3.2578 hours instead simply 3.26. I bill rounding nearest quarter hour really causes issues. When times imported freshbooks website, I go every single task round myself. There way change seconds Android iPhone even keep track seconds. The iPhone way be. I asked feature request put several times fix issue luck. Freshbooks needs get act together fix stupid bug!; No longer fan Freshbooks, glad moving on. This always little temperamental newer simply refused work account. I switched Wave happy I far.; The slow actual payment process slow. It's 2018. It take week process online transaction. Too slow.; Not sure happened recently updates, fails anytime I try send invoice, view pdf. Always requiring Force Stop. I longer go.
+Genres: Business
+
 App Name: Crew - Free Messaging and Scheduling
 Rating: 4.6
 Reviews: Crew invaluable organizing 20 employees. It allows keep everyone up-to-date constantly changing schedule allows less workload enabling pick shifts request coverage shifts. It certainly best tools 4 Staffing I've used. Thank much crew To respond complaints reviews. Most employees love cannot see personal numbers crew app. If I need call video conference anybody directly I normal Cell Phone features. It never crashed Frozen ability upload high-quality PDF schedules directly emails wonderful; AMAZING!!! The best communication tool ever used. I say everyone knows. Extremely helpful filling unexpected absences. A perfect way uplift employee thats great job gold star recognition. Thank crew app!!!; Very easy use! I jot things pop head hours night, someone take care next day!; Kind hard start. I opened deal. But help Co worker figured; half bad takes little bit space even though cell phones transfer SD card. The messaging features okay way call associates crew members would nice. Or perhaps video chat feature
+Genres: Business
+
+App Name: Asana: organize team projects
+Rating: 4.3
+Reviews: It would 5 stars feature parity mobile. For example format text (bold, italic, bulleted/numbered lists). Not format text mobile almost next impossible edit text task rich text formatting without creating huge mess. Asana resolve immediately paying customers get back business.; Eh, okay. Not user-friendly though; need run UX team. Don't know delete projects mobile, know see tasks mobile, know get settings... The program Asana great, get wrong; need reworking.; Set four boards task list app. Cannot find app. I found workspace, there's board even giving hour sync up.; I love lot problem showing notifications; work phone, even sign login. Don't even know good tool. Uninstalled reinstalled, lost time. Very unfortunate, seems great.
+Genres: Business
+
+App Name: AdWords Express
+Rating: 4.1
+Reviews: The much trash company. I got views Instagram paying $15 I Google AdWords Express using $150. I never AdWords I make sure friends business field either.; You can't yahoo business email. It dismiss trademark infringement. No help support.; opens 1st time reinstall again.; work; This working please look it.
 Genres: Business
 
 App Name: Accounting App - Zoho Books
@@ -25,9 +50,39 @@ Rating: 4.5
 Reviews: Need report views like web.; Perfect intuitive small business - road saves time get home keeping wife kids happy!; Great App. Keep great work Zoho. Need theme colors (dark ones)!!; The best accounting ever; Got pay portal running time... Pretty impressive...
 Genres: Business
 
+App Name: Cisco Webex Meetings
+Rating: 4.4
+Reviews: Needs relogin painful. I want I front computer. And I relogin repeatedly difficult. They enable passcode easier mean instead relogin. Other issue delay mute. I liked mute button screen I afraid delay I say mute actually mutes. It nice somehow forwarded meetings added I remember type meeting numbers. Apart complains. great helpful.; Audio Internet disconnects second (at least Bluetooth headset). It good provide dial in/out options. Also request rating end call annoying.; Very clunky. Screen darken phone placed ear call. Speaker phone on/off buried menu. Phone runs hot use. Samsung S7, Fortune 500 company.; I almost often desktop I'm meetings people side world. I'm always office meet mobile allows view screens almost everything I desktop. My real complaint I select meeting link email opens first, opens app. It open directly. Also, oddly compatible Chrome.; Its connecting meeting room sometimes, per knowledge tried pc mobile also. Otherwise sharing screen n essential tabs working fine. Improve chat conversation part.
+Genres: Business
+
+App Name: Cisco Webex Teams
+Rating: 4.2
+Reviews: Poor app. Wish designed brains first, coding it. So many changes proof poor design.; I keep touch. The recent enhancements making things better. Thanks great support. Please enable manual speakerphone toggle.; Excessive battery drain literally killing phone. Calls pathetic. This battery hog!; Two updates per day, quite often.This I call agile software development....; This great messaging easy join WebEx meeting searching keywords work efficiently.
+Genres: Business
+
+App Name: Google Ads
+Rating: 4.3
+Reviews: You terrible job recreating something works. Now slow load. Does half options used creates work; It helpful manage ads.; I love google; Nice yousfull; Awesome
+Genres: Business
+
+App Name: FreshBooks Classic
+Rating: 4.1
+Reviews: I would really like see PDF support receipts creating expense. I store receipts PDFs essentially makes large part useless (and many others well).; The Android version keeps time project task thousandth decimal place. The iPhone round nearest minute. This causes get times 3.2578 hours instead simply 3.26. I bill rounding nearest quarter hour really causes issues. When times imported freshbooks website, I go every single task round myself. There way change seconds Android iPhone even keep track seconds. The iPhone way be. I asked feature request put several times fix issue luck. Freshbooks needs get act together fix stupid bug!; No longer fan Freshbooks, glad moving on. This always little temperamental newer simply refused work account. I switched Wave happy I far.; The slow actual payment process slow. It's 2018. It take week process online transaction. Too slow.; Not sure happened recently updates, fails anytime I try send invoice, view pdf. Always requiring Force Stop. I longer go.
+Genres: Business
+
 App Name: Crew - Free Messaging and Scheduling
 Rating: 4.6
 Reviews: Crew invaluable organizing 20 employees. It allows keep everyone up-to-date constantly changing schedule allows less workload enabling pick shifts request coverage shifts. It certainly best tools 4 Staffing I've used. Thank much crew To respond complaints reviews. Most employees love cannot see personal numbers crew app. If I need call video conference anybody directly I normal Cell Phone features. It never crashed Frozen ability upload high-quality PDF schedules directly emails wonderful; AMAZING!!! The best communication tool ever used. I say everyone knows. Extremely helpful filling unexpected absences. A perfect way uplift employee thats great job gold star recognition. Thank crew app!!!; Very easy use! I jot things pop head hours night, someone take care next day!; Kind hard start. I opened deal. But help Co worker figured; half bad takes little bit space even though cell phones transfer SD card. The messaging features okay way call associates crew members would nice. Or perhaps video chat feature
+Genres: Business
+
+App Name: Asana: organize team projects
+Rating: 4.3
+Reviews: It would 5 stars feature parity mobile. For example format text (bold, italic, bulleted/numbered lists). Not format text mobile almost next impossible edit text task rich text formatting without creating huge mess. Asana resolve immediately paying customers get back business.; Eh, okay. Not user-friendly though; need run UX team. Don't know delete projects mobile, know see tasks mobile, know get settings... The program Asana great, get wrong; need reworking.; Set four boards task list app. Cannot find app. I found workspace, there's board even giving hour sync up.; I love lot problem showing notifications; work phone, even sign login. Don't even know good tool. Uninstalled reinstalled, lost time. Very unfortunate, seems great.
+Genres: Business
+
+App Name: AdWords Express
+Rating: 4.1
+Reviews: The much trash company. I got views Instagram paying $15 I Google AdWords Express using $150. I never AdWords I make sure friends business field either.; You can't yahoo business email. It dismiss trademark infringement. No help support.; opens 1st time reinstall again.; work; This working please look it.
 Genres: Business
 
 App Name: Accounting App - Zoho Books
@@ -38,6 +93,11 @@ Genres: Business
 App Name: Fast Scanner : Free PDF Scan
 Rating: 4.5
 Reviews: Simple use, ridiculous ads way... When need quick PDF u take picture... oh AND free... Don't get better. Highly recommend; Simple intuitive use. I like feature darker text export document either pdf jpg format. I purchased PRO version cloud storage backup support continuous development tool well. Highly recommended best scanner I've used ever.; Great business convenience! I private process server need scanner road frequently, works perfectly! Much better quality portable want scanners; Rather buy new scanner office, I used app. Fast convenient, I particularly like immediate obvious option share email, message, etc.; Once I got hang using it, great! As long person email fax machine needed! Take picture brighten dark report resize frame document. Easy thank Fast Scanner making job easy even without fax machine!
+Genres: Business
+
+App Name: Google Ads
+Rating: 4.3
+Reviews: You terrible job recreating something works. Now slow load. Does half options used creates work; It helpful manage ads.; I love google; Nice yousfull; Awesome
 Genres: Business
 
 App Name: Curriculum vitae App CV Builder Free Resume Maker

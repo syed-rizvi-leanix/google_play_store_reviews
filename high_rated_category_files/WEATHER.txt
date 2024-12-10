@@ -3,4 +3,15 @@ Category: WEATHER
 App Name: Free live weather on screen
 Rating: 4.4
 Reviews: Nice app, appreciate; It's LIVE weather there's option live weather wallpaper. This plain weather app. My original comes phone much better.; Just installed! Hope isn't a lot Ads uninstall immediately!; I deleted weather cell, best weather I used.; Please get rid adverts
+Genres: Weather
+
+App Name: APE Weather ( Live Forecast)
+Rating: 4.3
+Reviews: No automatic weather update start up, UI intuitive, useless animations instead functional basic features - can't recommend it, sorry.; Please add locations like location (Oghi, Pakistan) available. And also please add widget 4*2. Otherwise good; Work correctly nice awesome Install gyz; It gives proper weather condition; Go back drawing board!
+Genres: Weather
+
+App Name: ForecaWeather
+Rating: 4.2
+Reviews: This accurate weather area, widget ... cannot info upgrading work Android 7.0. So I keep Accuweather widget (it gives quite accurate present weather info) Foreca accurate future info. Or maybe I uninstall create shortcut page desktop, maybe would better. After uninstalling adding shortcut page, funny, problem server Foreca. The server slow, slower slowerthan server. I remove shortcut well. Bye, bye Foreca.; Widget nice custom color settings nothing shown data. 1x1 widget somewhat useful. I mainly hourly forecasts what's point widget acts huge unnecessary icon app? Competitor great detailed widget, better guess I keep both...; Web version faster use. The would need new less detailed main page shows three days rain amount single page require scrolling. Could nicer graphics well. Rain info strangely hidden separate page whose name unintuitive (meteogram).; After two years widget still updates location rarely even gps on. Sometimes changes location hundreds kilometers away. They repair this...but no.; Inconvenient I can't swipe left/right days detailed view. In previous version redesign useful.
+Genres: Weather
 
